@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zyfrog.github.io/hotelgg/hotelgg.ipa</string>
+					<string>https://zyfrog.github.io/parttime/hotelgg.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hotelgg.iosapp</string>
+				<string>com.yihuanyu.game.beta</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>酒店哥哥</string>
+				<string>时兼轴</string>
 			</dict>
 		</dict>
 	</array>
